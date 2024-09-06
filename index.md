@@ -93,8 +93,7 @@ end
 - level 1 item
 
 ### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+(https://th.bing.com/th/id/OIP.zZoOEAsz1OSWR8ZRGO0v-AHaGC?rs=1&pid=ImgDetMain)
 
 ### Large image
 
